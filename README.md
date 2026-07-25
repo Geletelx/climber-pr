@@ -10,7 +10,7 @@ time you ride it, the data field shows a live delta against your best attempt:
 distance left to the finish.
 
 > Works while recording a ride. Add the **Live Segment** data field to any screen
-> profile after installing (it appears under the *Live Segments Offline* extension).
+> profile after installing (it appears under the *CLIMBER PR* extension).
 
 ## Create your own segments — right from the bike
 
@@ -38,6 +38,10 @@ best time — exactly like a climb. No buttons, no setup.
   climb data when navigating a route, and from a gradient-based detector when riding free.
 - 🗺️ **Fully offline** — detection, timing and PRs all run on the device; no account and no data connection needed while riding.
 - 💾 **Local history** — your segments, climbs and attempts stay on the device.
+- 🖥️ **Full-screen data field** that adapts to its size — big live delta, elapsed time, distance climbed / to go, and average **and current speed**.
+- ➗ **Dual timing, split screen** — when you're on a manual segment and a climb at the same time, the full-screen field splits in two and shows both live, each with its own delta and metrics.
+- 🔴 **Recording indicator** — a red “RECORDING” banner with a blinking dot while a manual segment is running, so you never forget to close it at point B.
+- 🌍 **Five languages** — English, Español, Italiano, Français, Deutsch. Follows your Karoo's language, or pick one in Settings.
 
 ## Free vs. Premium
 
@@ -55,6 +59,16 @@ adding as many climbs and segments as you like.
 once in the app, and it stays unlocked offline forever.
 
 👉 **Get Premium: [lagirotta.com](https://www.lagirotta.com)**
+
+## What's new in 1.3
+
+- **Dual timing on a split screen** when a manual segment and a climb overlap — both shown live, full screen.
+- **Recording indicator**: a red “RECORDING” banner with a blinking dot while a manual segment is in progress.
+- **Current speed** added alongside average speed on the full-screen field.
+- **Five languages** (English, Spanish, Italian, French, German), selectable in Settings.
+- Clearer, size-adaptive full-screen layout.
+
+Your saved climbs, segments and Premium activation are kept when updating.
 
 ## Download & Install
 
